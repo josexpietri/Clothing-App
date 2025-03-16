@@ -1,0 +1,18 @@
+div {
+    text-align: center;
+   
+}
+
+body {
+    background-image: url("TopInspect/Images/background.png"); /* Replace with your image URL */
+    background-size: cover; /* Ensures it covers the entire screen */
+    background-position: bottom center; /* Moves the image to the bottom */
+    background-repeat: no-repeat; /* Prevents tiling */
+    background-attachment: fixed; /* Keeps it fixed while scrolling */
+    
+}
+
+img{
+    border: 2px solid rgb(75, 95, 82);
+    
+}

@@ -1,0 +1,50 @@
+div {
+    text-align: center;
+    font-size: 14px; /* You can adjust the size as needed */
+    position: absolute; 
+    top: 612px; 
+    left:0;
+    right:0;
+    text-align: center;
+    
+}
+h4{
+    font-size: 14px;
+}
+body {
+    background-image: url('Images/InspectBG.jpg'); /* Ensure this path is correct */
+    background-size: contain; /* Adjusts the image to fit within the page */
+    background-position: bottom center; /* Positions it at the bottom */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-attachment: fixed; /* Keeps the background in place */
+}
+
+.H{
+    position: absolute;
+    left : 100px;
+    position: absolute; 
+    left:780px; 
+    top: 200px;
+    border: 2px solid rgb(75, 95, 82);
+    
+}
+br {
+    line-height: 150%;
+ }
+.CIM{
+   display: block; 
+   margin: auto;
+   position: absolute; top: 560px; left: -75px; border-color: transparent;
+   
+}
+
+button{
+    width: 100px; 
+    height: 30px; 
+    background-color:rgb(75, 95, 82); 
+    border: 1px solid white; 
+    cursor: pointer; 
+    color: white;
+    font-size: 12px; /* You can adjust the size as needed */
+    
+}
