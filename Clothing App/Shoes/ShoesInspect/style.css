@@ -20,11 +20,9 @@ body {
 }
 
 .H{
-    position: absolute;
-    left : 100px;
     position: absolute; 
-    left:780px; 
-    top: 200px;
+    left:38%;
+    top: 27%;
     border: 2px solid rgb(75, 95, 82);
     
 }

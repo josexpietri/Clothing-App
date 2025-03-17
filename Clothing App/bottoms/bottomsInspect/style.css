@@ -11,6 +11,7 @@ div {
 h4{
     font-size: 14px;
 }
+
 body {
     background-image: url('Images/InspectBG.jpg'); /* Ensure this path is correct */
     background-size: contain; /* Adjusts the image to fit within the page */
@@ -20,13 +21,10 @@ body {
 }
 
 .H{
-    position: absolute;
-    left : 100px;
     position: absolute; 
-    left:780px; 
-    top: 200px;
+    left:38%;
+    top: 27%;
     border: 2px solid rgb(75, 95, 82);
-    
 }
 br {
     line-height: 150%;
@@ -34,8 +32,11 @@ br {
 .CIM{
    display: block; 
    margin: auto;
-   position: absolute; top: 560px; left: -75px; border-color: transparent;
-   
+   position: absolute; 
+   top: 47%; 
+   left: -5%; 
+   border-color: transparent;
+   background-attachment: fixed;
 }
 
 button{

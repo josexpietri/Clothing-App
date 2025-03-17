@@ -26,13 +26,13 @@ h1 {
     font-size: 1cm;
     position: absolute; 
     left:0;right:0;text-align: center;
-    top: 5px;
+    top: .8%;
 }
 
 h2 {
     position: absolute; 
     left:0;right:0;text-align: center;
-    top: 55px;
+    top: 8%;
 }
 
 body {
