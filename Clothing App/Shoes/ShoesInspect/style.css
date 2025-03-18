@@ -21,28 +21,36 @@ body {
 
 .H{
     position: absolute; 
-    left:38%;
-    top: 27%;
+    left: 41%;
+    top: 22%;
     border: 2px solid rgb(75, 95, 82);
     
 }
-br {
-    line-height: 150%;
- }
 .CIM{
    display: block; 
    margin: auto;
-   position: absolute; top: 560px; left: -75px; border-color: transparent;
+   position: absolute;  
+   top: 60%; 
+   left: -5%;
+   border-color: transparent;
+   background-attachment: fixed;
    
 }
 
-button{
+.button2{
     width: 100px; 
     height: 30px; 
     background-color:rgb(75, 95, 82); 
-    border: 1px solid white; 
     cursor: pointer; 
     color: white;
     font-size: 12px; /* You can adjust the size as needed */
     
+}
+.button{
+    width: 90px; 
+    height: 30px; 
+    background-color: rgb(75, 95, 82); 
+    cursor: pointer; 
+    color: white; 
+    font-size:12px;
 }

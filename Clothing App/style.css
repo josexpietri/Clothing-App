@@ -6,17 +6,10 @@
 }
 
 a {
-    width: 100px; 
-    height: 30px; 
-    background-color:transparent; 
     cursor: pointer; 
-    font-size: 100%; 
-    color: rgb(75, 95, 82); 
     text-decoration: none;
-    margin-right: 17px; /* Adds space between links */
-    font-family: 'Times New Roman', Times, serif;
-    font-size: .5cm;
-    
+    margin-right: 17px; 
+    color: rgb(75, 95, 82); 
 }
 
 
@@ -25,7 +18,7 @@ h1 {
     font-family: 'Times New Roman', Times, serif;
     font-size: 1cm;
     position: absolute; 
-    left:0;right:0;text-align: center;
+    left:45.2%;right:50%;text-align: center;
     top: .8%;
 }
 
@@ -33,6 +26,8 @@ h2 {
     position: absolute; 
     left:0;right:0;text-align: center;
     top: 8%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: .5cm;
 }
 
 body {
